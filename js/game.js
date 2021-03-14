@@ -208,7 +208,7 @@
             if (this.game.physics.arcade.collide(this.leftwall, player)) {
 
 
-                player.body.x = 940;
+                player.body.x = 930;
 
             }
 
