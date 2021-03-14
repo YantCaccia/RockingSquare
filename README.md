@@ -5,4 +5,4 @@ This could be done (better) in a night, but at those times i spent 3 months (my 
 
 Couldn't be prouder!
 
-[Now go playing](ingsquare.netlify.app)!
+[Now go playing](https://rockingsquare.netlify.app/)!
